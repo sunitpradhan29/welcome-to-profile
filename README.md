@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 💼 I'm working on several exciting projects involving web development and machine learning
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about anything related to Python, JavaScript, or web development
-- 📫 How to reach me: [sunitpradhan29@example.com](mailto:sunitpradhan29@example.com)
+- 📫 How to reach me: [sunitpradhan29@example.com](mailto:sunitpradhan89@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new places
 
 ## 🛠️ Languages and Tools
